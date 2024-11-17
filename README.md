@@ -1,7 +1,3 @@
-Here’s a sample README file for your GitHub project:
-
----
-
 # JobMatching
 
 **JobMatching** is a web-based platform designed to connect job seekers with relevant job opportunities. This project aims to simplify the job application process by providing a user-friendly interface for browsing, filtering, and applying for jobs. 
@@ -42,14 +38,13 @@ Here’s a sample README file for your GitHub project:
 
 ```plaintext
 JobMatching/
-├── assets/          # Static files like images, CSS, and JavaScript
-├── includes/        # Reusable PHP components (header, footer, etc.)
-├── config.php       # Database connection settings
+├── app.py
 ├── index.php        # Home page
-├── login.php        # Login page
-├── register.php     # User registration page
-├── job_post.php     # Recruiters can post jobs
-├── job_search.php   # Job seekers can search jobs
+├── fetch_companies.php
+├── comand.md
+├── ml_model.pkl
+├── requirements.txt
+├── training.py
 └── README.md        # Project documentation
 ```
 
