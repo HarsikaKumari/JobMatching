@@ -29,7 +29,7 @@
    ```
 3. Set up the database:
    - Import the provided SQL file into your MySQL database.
-   - Update the database credentials in the configuration file (`config.php`).
+   - Update the database credentials in the fetch_companies file (`fetch_companies.php`).
 
 4. Run the application:
    - Host the project locally using a server like XAMPP or WAMP.
@@ -41,7 +41,7 @@ JobMatching/
 ├── app.py
 ├── index.php        # Home page
 ├── fetch_companies.php
-├── comand.md
+├── command. md
 ├── ml_model.pkl
 ├── requirements.txt
 ├── training.py
