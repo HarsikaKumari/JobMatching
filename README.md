@@ -17,6 +17,9 @@
 - **Database**: MySQL
 - **Other Tools**: Git for version control
 
+## Working video: 
+https://github.com/user-attachments/assets/f9f428f7-fd29-4e89-a315-14d9bd2ebbf7
+
 ## Installation
 
 1. Clone the repository:
